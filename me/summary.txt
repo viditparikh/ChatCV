@@ -1,0 +1,5 @@
+Hi, I’m Vidit Parikh. I’m a tech enthusiast who enjoys building Agentic chatbots, APIs, and cool projects with Langchain, openai sdk
+and  machine learning models. I’m always curious to learn new things and love solving problems with simple and creative solutions.
+
+A fun fact about me: When I’m not coding, you’ll probably find me swimming,
+hitting the gym, or capturing beautiful sunset photos. Oh, and I’m also a huge anime fan.
